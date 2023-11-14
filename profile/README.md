@@ -1,5 +1,3 @@
----
-
 # MadarTech: Last Mile Logistics Solutions
 
 ![MadarTech Logo](/profile/FullLogo_Transparent-2.png)
@@ -41,7 +39,7 @@ For more information or to request a demo, please contact us at:
 
 - Email:
 - Phone: +966
-- Website: [www.madartech.app](http://www.madartech.app)
+- Website: [https://madartech.app](https://madartech.app)
 
 ---
 
