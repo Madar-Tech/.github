@@ -40,7 +40,3 @@ For more information or to request a demo, please contact us at:
 - Email:
 - Phone: +966
 - Website: [https://madartech.app](https://madartech.app)
-
----
-
-Feel free to customize this template to better fit the specifics of your startup, including adding more technical details, code snippets (if applicable), and links to additional resources or documentation.
