@@ -1,5 +1,3 @@
-Creating a GitHub README file for a last mile logistics startup like MadarTech requires a blend of clear communication and technical insight. The README should provide an overview of your company, its mission, and the technical aspects of your service, especially focusing on your flexible pricing model. Here's a template that you can use as a starting point:
-
 ---
 
 # MadarTech: Last Mile Logistics Solutions
