@@ -4,7 +4,7 @@ Creating a GitHub README file for a last mile logistics startup like MadarTech r
 
 # MadarTech: Last Mile Logistics Solutions
 
-![MadarTech Logo](FullLogo_Transparent-2.png)
+![MadarTech Logo](/profile/FullLogo_Transparent-2.png)
 
 ## About Us
 
